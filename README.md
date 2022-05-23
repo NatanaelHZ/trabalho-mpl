@@ -1,2 +1,2 @@
 # trabalho-mpl
-Trabalho de IA
+Trabalho de Inteligência Artificial | Ciência da Computação - UFFS
